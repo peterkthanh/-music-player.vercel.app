@@ -57,6 +57,12 @@ const songs = [
         path: "./assets/music/Song5.mp3",
         image: "./assets/img/song5.jpg",
     },
+    {
+        name: "Bên Trên Tầng Lầu ( Huyn remix )",
+        singer: "Tăng Duy Tân by Nguyễn Minh Huy ",
+        path: "./assets/music/Song6.mp3",
+        image: "./assets/img/song6.jpg",
+    },
 ];
 
 const app = {
@@ -95,6 +101,12 @@ const app = {
             singer: "Daniel Mastro Mashup Remix by LX ✪",
             path: "./assets/music/Song5.mp3",
             image: "./assets/img/song5.jpg",
+        },
+        {
+            name: "Bên Trên Tầng Lầu ( Huyn remix )",
+            singer: "Tăng Duy Tân by Nguyễn Minh Huy ",
+            path: "./assets/music/Song6.mp3",
+            image: "./assets/img/song6.jpg",
         },
     ],
     setConfig: function (key, value) {
